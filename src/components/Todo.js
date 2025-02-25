@@ -1,4 +1,3 @@
-// src/components/Todo.js
 import React from "react";
 import "../css/Todo.css";
 
